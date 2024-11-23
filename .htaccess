@@ -1,0 +1,4 @@
+rewriteengine on
+rewritecond %{HTTP_HOST} ^www.oscarseurat.com$ [OR]
+rewritecond %{HTTP_HOST} ^oscarseurat.com$
+rewriterule ^$ "http\:\/\/oscarseurat\.com\/index\.html" [R=301,L] #566c9386a5f01
