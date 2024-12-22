@@ -9,12 +9,12 @@ p.poem {text-align:center;}
 
   <head>
     <title>BBE Preview</title>
-    <! <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <! <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script> 
 
     <script src="jquery.js"></script>
     <script src="galleria/galleria-1.2.9.min.js"></script>
 <style>
-    #galleria{ width: 1300px; height: 691px; background: #B13131 }
+    #galleria{ width: 1760px; height: 880px; background: #B13131 }
 </style>
   </head>
 
@@ -27,12 +27,12 @@ p.poem {text-align:center;}
 
 
 <img src="BBEPreviewPictures/BBEBothSides1200.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -51,12 +51,12 @@ data-link="BBEPreviewPictures/BBEBothSides1200.png" >
 
 <img src="BBEPreviewPictures/CompleteCover.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -72,13 +72,13 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 data-link="BBEPreviewPictures/CompleteCover.png" >
 
 
-<img src="BBEPreviewPictures/BBE001_002b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/FrontMatter4_0_1a.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -90,18 +90,18 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
 
-data-link="BBEPreviewPictures/BBE001_002b.jpg" >
+data-link="BBEPreviewPictures/FrontMatter4_0_1a.png" >
 
 
 
 
-<img src="BBEPreviewPictures/BBE003_004b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/FrontMatter4_2_3a.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -113,101 +113,18 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
 
-data-link="BBEPreviewPictures/BBE003_004b.jpg" >
+data-link="BBEPreviewPictures/FrontMatter4_2_3a.png" >
 
 
 
-<img src="BBEPreviewPictures/BBE005_006b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_0_1b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-
-
-data-link="BBEPreviewPictures/BBE005_006b.jpg" >
-
-
-<img src="BBEPreviewPictures/BBE007_008b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE007_008b.jpg" >
-
-
-
-<img src="BBEPreviewPictures/BBE009_010b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE009_010b.jpg" >
-
-
-<img src="BBEPreviewPictures/BBE011_012b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE011_012b.jpg" >
-
-<img src="BBEPreviewPictures/BBE013_014b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -220,17 +137,77 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
 
 
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_0_1b.png" >
 
-data-link="BBEPreviewPictures/BBE013_014b.jpg" >
 
-<img src="BBEPreviewPictures/BBE015_016b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_2_3b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
+
+<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
+
+<br><br>
+<strong><big>See also &darr;</big></strong><br>
+<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
+
+<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
+
+</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_2_3b.png" >
+
+
+
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_4_5b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+
+Follow the side arrows for other pages.
+
+<br><br><strong><big>Buy at:</big></strong>
+
+<br>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
+
+<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
+
+<br><br>
+<strong><big>See also &darr;</big></strong><br>
+<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
+
+<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
+
+</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_4_5b.png" >
+
+
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_6_7b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
+
+<br><br><strong><big>Buy at:</big></strong>
+
+<br>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
+
+<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
+
+<br><br>
+<strong><big>See also &darr;</big></strong><br>
+<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
+
+<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
+
+</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_6_7b.png" >
+
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_8_9b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
+
+<br><br><strong><big>Buy at:</big></strong>
+
+<br>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -244,55 +221,16 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 
 
 
-data-link="BBEPreviewPictures/BBE015_016b.jpg" >
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_8_9b.png" >
 
-<img src="BBEPreviewPictures/BBE017_018b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_10_11b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
 
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE017_018b.jpg" >
-
-<img src="BBEPreviewPictures/BBE019_020b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE019_020b.jpg" >
-
-
-
-<img src="BBEPreviewPictures/BBE021_022b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -304,15 +242,17 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
 
-data-link="BBEPreviewPictures/BBE021_022b.jpg" >
 
-<img src="BBEPreviewPictures/BBE023_024b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_10_11b.png" >
+
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_12_13b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -323,20 +263,15 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 <br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE023_024b.jpg" >
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_12_13b.png" >
 
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE025_026b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_14_15b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -347,24 +282,17 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 <br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE025_026b.jpg" >
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_14_15b.png" >
 
 
 
-
-
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE027_028b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_16_17b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -375,34 +303,16 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 <br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE027_028b.jpg" >
 
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_16_17b.png" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE073_074b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_18_19b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -413,17 +323,20 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 <br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE073_074b.jpg" >
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_18_19b.png" >
 
 
 
-<img src="BBEPreviewPictures/BBE075_076b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
+
+
+
+<img src="BBEPreviewPictures/BBETest3_Ia_Page_Combined_20_21b.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
+Follow the side arrows for other pages.
 
 <br><br><strong><big>Buy at:</big></strong>
 
 <br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
+<a href=http://www.amazon.com/Sudoku-Stories-History-Science-Designer/dp/0991323521/ref=tmm_pap_title_0?_encoding=UTF8&sr=&qid=big><big>Amazon.com</big></a>
 
 <a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
 
@@ -434,201 +347,11 @@ Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
 <br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
 
 </a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE075_076b.jpg" >
+data-link="BBEPreviewPictures/BBETest3_Ia_Page_Combined_20_21b.png" >
 
 
 
 
-
-<img src="BBEPreviewPictures/BBE077_078b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE077_078b.jpg" >
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE079_080b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE079_080b.jpg" >
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE081_082b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE081_082b.jpg" >
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE171_172b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE171_172b.jpg" >
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE173_174b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE173_174b.jpg" >
-
-
-
-
-
-<img src="BBEPreviewPictures/BBE175_176b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE175_176b.jpg" >
-
-
-
-
-<img src="BBEPreviewPictures/BBE177_178b.jpg"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/BBE177_178b.jpg" >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="BBEPreviewPictures/Contents.png"   data-title="<u>THE BLIND<br>BIDDER'S EYE</u><br>PREVIEW<br>" data-description=" 
-Use <strong>CTRL+</strong> or <strong>CTRL-</strong> to adjust text size.
-
-<br><br><strong><big>Buy at:</big></strong>
-
-<br>
-<a href=http://www.amazon.com/Blind-Bidders-Eye-Troubles-Jumbled/dp/0991323548><big>Amazon.com</big></a>
-
-<a href=https://www.createspace.com/5609180><big>CreateSpace</big></a>
-
-<br><br>
-<strong><big>See also &darr;</big></strong><br>
-<a href=http://www.oscarseurat.com/CollectorsEditionSample/CollectorsEditionPrev.html><strong><big>Sudoku Stories</big></strong></a><br> History, Art & Science in 101 Designer Puzzles
-
-<br><br><a href=../index.html><big><strong>Oscar's Page</strong></big></a>
-
-</a><br><br><a href=http://www.cafepress.com/oscarseuratlab><strong><big>Other Gifts</strong></big></a>"
-data-link="BBEPreviewPictures/Contents.png" >
 
 
         </div>

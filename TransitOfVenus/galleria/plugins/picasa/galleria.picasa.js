@@ -109,7 +109,7 @@ Galleria.Picasa.prototype = {
     _call: function( type, url, params, callback ) {
 
         url = 'https://picasaweb.google.com/data/feed/api/' + url + '?';
-
+ 
         if (typeof params == 'function') {
             callback = params;
             params = {};

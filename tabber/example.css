@@ -88,7 +88,7 @@ ul.tabbernav li.tabberactive a:hover {
 #container {
   border-color: silver;
   border-width: 1px;
-  width: 932px;
+  width: 980px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -96,5 +96,5 @@ ul.tabbernav li.tabberactive a:hover {
   padding-top: 20px;
   padding-left: 20px;
   font-family: "Times New Roman",Times,serif;
-  font-size: 14pt;
+  font-size: 20pt;
 }

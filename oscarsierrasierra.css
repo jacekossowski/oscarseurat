@@ -37,7 +37,7 @@ ul.tabbernav li a {
   border-width: 1px 1px medium;
   padding: 3px 0.5em;
   background: #ddddee none repeat scroll 0% 50%;
-  margin-left: 3px;
+  margin-left: 0px;
   text-decoration: none;
 }
 ul.tabbernav li a:link {
@@ -92,9 +92,6 @@ ul.tabbernav li.tabberactive a:hover {
   margin-right: auto;
   margin-left: auto;
 }
-
-
-
 #tab1 {
   padding-top: 6px;
   font-family: "Times New Roman",Times,serif;
@@ -206,7 +203,7 @@ padding-bottom: 10px;
 border: solid black 1px;
 padding:10px;
 background-image: url('./TorusBoards/icons/YellowBar4.png');
- /* background-image: url('./TorusBoards/icons/VoronoiExperiments12.png'); */
+ /* background-image: url('./TorusGames/icons/VoronoiExperiments12.png'); */
 }
 
 #middle_row{
