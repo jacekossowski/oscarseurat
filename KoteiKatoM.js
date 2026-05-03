@@ -205,9 +205,11 @@ class LogicalCube {
 
 /** * 2. SCENE SETUP (Logic engine remains same) **/
 size = 4;
+size_4_fov = 55;
+size_5_fov = 63;
 const cube = new LogicalCube(size);
 const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+const camera = new THREE.PerspectiveCamera(size_4_fov, window.innerWidth / window.innerHeight, 0.1, 1000);
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 const container = document.getElementById('threejs-container');
@@ -653,6 +655,12 @@ const game_dropdown = document.getElementById('game-option');
 size_dropdown.addEventListener('change', (event) => {
       isInteractingWithUI = true;
       size = parseInt(event.target.value, 10);
+      if (size == 4)
+        camera.fov = size_4_fov;
+      else {
+        camera.fov = size_5_fov;
+      }
+      camera.updateProjectionMatrix();
       game_index = parseInt(game_dropdown.value, 10);
       const game = (size == 4) ? Games_4x4[game_index] : Games_5x5[game_index];
       offset = (size - 1) / 2; // Recalculate the center offset
@@ -666,6 +674,12 @@ game_dropdown.addEventListener('change', (event) => {
       isInteractingWithUI = true;
       game_index = parseInt(event.target.value, 10);
       size = parseInt(size_dropdown.value, 10);
+      if (size == 4)
+        camera.fov = size_4_fov;
+      else {
+        camera.fov = size_5_fov;
+      }
+      camera.updateProjectionMatrix();
       const game = (size == 4) ? Games_4x4[game_index] : Games_5x5[game_index];
       offset = (size - 1) / 2; // Recalculate the center offset
       cube.loadContentFromArrays(game.mask, game.values);
