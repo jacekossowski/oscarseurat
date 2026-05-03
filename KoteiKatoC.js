@@ -468,7 +468,7 @@ function updateNumberVisibility() {
         else if (axis === 'y' && pos.ly === index) isBright = true;
         else if (axis === 'z' && pos.lz === index) isBright = true;
 
-        sprite.material.opacity = isBright ? 1.0 : 0.6;
+        sprite.material.opacity = isBright ? 1.0 : 0.4;
         // Optional: Make inactive numbers slightly smaller to clear the view
         const s = isBright ? 0.8 : 0.6;
         sprite.scale.set(s, s, s);
