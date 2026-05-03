@@ -197,4 +197,8 @@ select {
   .input-grid {
     grid-template-columns: 1fr; /* Stack everything vertically on small screens */
   }
+
+  .hide-on-mobile{
+   display: none;
+  }
 }
