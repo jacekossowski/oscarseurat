@@ -67,7 +67,7 @@ touch-action: none;
     display: grid;
     grid-template-columns: repeat(3, 50px); /* 3 columns, 60px each */
     grid-template-rows: repeat(3, 50px);    /* 3 rows, 60px each */
-    gap: 5px;
+    gap: 24px;
     z-index: 100;
 }
 
@@ -101,20 +101,20 @@ touch-action: none;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
-  gap: 50px;               /* Space between the two grids */
+  gap: 56px;               /* Space between the two grids */
   padding-top: 20px;       /* Margin from the very top of the page */
   width: 100%;
 }
 
 /* Styling to make them look like a D-pad */
 .grid-btn {
-    width: 50px;
-    height: 50px;
+    width: 64px;
+    height: 64px;
     background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent */
     color: white;
     border: 2px solid white;
-    border-radius: 10px;
-    font-size: 28px;
+    border-radius: 12px;
+    font-size: 32px;
     cursor: pointer;
     touch-action: manipulation; /* Prevents zooming on iPhone */
 }
@@ -128,22 +128,23 @@ touch-action: none;
    /* position: absolute; */
    /*  top: 20px;  *//* Positioned for thumb reach on iPhone */
    /* left: 550px;*/
+    padding-top: 16px;
     display: grid;
-    grid-template-columns: repeat(3, 35px); /* 3 columns, 60px each */
-    grid-template-rows: repeat(2, 35px);    /* 3 rows, 60px each */
-    gap: 51px;
+    grid-template-columns: repeat(3, 40px); /* 3 columns, 60px each */
+    grid-template-rows: repeat(2, 40px);    /* 3 rows, 60px each */
+    gap: 64px;
     z-index: 100;
 }
 
 /* Styling of the number controls */
 .grid-btn-n {
-    width: 72px;
-    height: 72px;
+    width: 86px;
+    height: 86px;
     background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent */
     color: #ffcc00;
     border: 2px solid white;
-    border-radius: 10px;
-    font-size: 32px;
+    border-radius: 12px;
+    font-size: 36px;
     cursor: pointer;
     touch-action: manipulation; /* Prevents zooming on iPhone */
 }
@@ -172,10 +173,10 @@ touch-action: none;
 }
 
 .container {
-  position: absolute;
-  top: 70px; /* Positioned for thumb reach on iPhone */
-  left: 30px;
-
+ /*  position: absolute; */
+ /*  top: 70px; */ /* Positioned for thumb reach on iPhone */
+ /*  left: 30px; */
+  padding-top: 35px;
   display: grid;
   /* Column 1: fits the longest label. Column 2: fills the rest */
   grid-template-columns: max-content max-content;
@@ -189,17 +190,19 @@ touch-action: none;
 }
 
 label {
-  font-size: 1.3rem; /* or use pixels, e.g., 18px */
-  font-weight: 600;  /* Optional: makes them slightly bolder */
+  padding-top: 15px;
+  font-size: 1.6rem;
+  font-weight: 600;
   color: #ffcc00
   z-index: 10;
 }
 
 select {
-  font-size: 1.3rem;
-  padding: 10px;
+  font-size: 2rem;
+  padding: 13px;
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 8px;
+  font-weight: 800;
   cursor: pointer;
 }
 
