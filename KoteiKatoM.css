@@ -213,6 +213,29 @@ select {
   z-index: 10;
 }
 
+/* 1. Hide the blocker by default (for Desktop) */
+#orientation-blocker {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #1a1a1a;
+  color: white;
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
 /* Responsive adjustment for mobile screens */
 @media (max-width: 1024px) {
   .input-grid {
@@ -222,4 +245,32 @@ select {
    .hide-on-mobile{
    display: none; !important
   }
+}
+
+
+/* 2. Only show the blocker on mobile-sized screens in Portrait mode */
+@media screen and (max-width: 1024px) and (orientation: landscape) {
+  #orientation-blocker {
+    display: flex;
+  }
+
+  #my_app {
+    display: none; /* Hide the app so they can't interact with it */
+  }
+}
+
+/* 3. Simple rotation animation for the icon */
+.phone-icon {
+  width: 50px;
+  height: 80px;
+  border: 3px solid white;
+  border-radius: 5px;
+  margin: 0 auto 20px;
+  animation: rotate-device 2s infinite ease-in-out;
+}
+
+@keyframes rotate-device {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(90deg); }
+  100% { transform: rotate(90deg); }
 }
