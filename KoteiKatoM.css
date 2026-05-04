@@ -102,7 +102,7 @@ touch-action: none;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
   gap: 56px;               /* Space between the two grids */
-  padding-bottom: 20px;       /* Margin from the very top of the page */
+  padding-bottom: 20%;       /* Margin from the very top of the page */
   width: 100%;
 }
 

@@ -206,7 +206,7 @@ class LogicalCube {
 /** * 2. SCENE SETUP (Logic engine remains same) **/
 size = 4;
 size_4_fov = 55;
-size_5_fov = 63;
+size_5_fov = 61;
 const cube = new LogicalCube(size);
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(size_4_fov, window.innerWidth / window.innerHeight, 0.1, 1000);
