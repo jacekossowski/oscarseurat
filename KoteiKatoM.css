@@ -43,7 +43,7 @@ position: absolute; /* Takes it out of the flow */
   margin-top: 110px;        /* Adds space from the top of the browser */
   margin-left: 30px;
   margin-bottom: 20px;     /* Adds space before your dropdown grid starts */
-  font-size: 2.5rem;       /* Makes it nice and large */
+  font-size: 3rem;       /* Makes it nice and large */
   color:  #BA55D3;             /* Use your preferred color */
   width: 100%;             /* Ensures it spans the full width to center correctly */
   z-index:10;
@@ -102,7 +102,7 @@ touch-action: none;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
   gap: 56px;               /* Space between the two grids */
-  padding-bottom: 20%;       /* Margin from the very top of the page */
+  padding-bottom: 22%;       /* Margin from the very top of the page */
   width: 100%;
 }
 
@@ -198,8 +198,7 @@ label {
 }
 
 select {
-  font-size: 2rem;
-  padding: 13px;
+  font-size: 3rem;
   border: 1px solid #ccc;
   border-radius: 8px;
   font-weight: 800;
