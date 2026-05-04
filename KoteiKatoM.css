@@ -36,6 +36,16 @@ canvas {
   padding-bottom: env(safe-area-inset-bottom);
 }
 
+#game-option{
+width: 80px;
+
+}
+#game-option{
+width: 80px;
+
+}
+
+
 .page-title {
 position: absolute; /* Takes it out of the flow */
   top: -90px;          /* Distance from the very top */
