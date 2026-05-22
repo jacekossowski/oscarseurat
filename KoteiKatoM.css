@@ -37,14 +37,9 @@ canvas {
 }
 
 #game-option{
-width: 80px;
+width: 90px;
 
 }
-#game-option{
-width: 80px;
-
-}
-
 
 .page-title {
 position: absolute; /* Takes it out of the flow */
@@ -70,6 +65,9 @@ touch-action: none;
 }
 .key { color: #BA55D3; font-weight: bold; }
 
+
+/* These appear to be the elevator's directional
+   movement controls */
 #controls {
    /* position: absolute; */
    /* top: 20px; *//* Positioned for thumb reach on iPhone */
@@ -107,11 +105,12 @@ touch-action: none;
 }
 
 #control-panel{
+  margin-left: -25px;
   display: flex;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
-  gap: 56px;               /* Space between the two grids */
+  gap: 60px;               /* Space between the two grids */
   padding-bottom: 22%;       /* Margin from the very top of the page */
   width: 100%;
 }
@@ -187,6 +186,9 @@ touch-action: none;
  /*  top: 70px; */ /* Positioned for thumb reach on iPhone */
  /*  left: 30px; */
   padding-top: 35px;
+  padding-bottom: 35px;
+  padding-left: 25px;
+  padding-right: 25px;
   display: grid;
   /* Column 1: fits the longest label. Column 2: fills the rest */
   grid-template-columns: max-content max-content;
@@ -196,6 +198,9 @@ touch-action: none;
   /* Column-gap adds space between label and dropdown */
   column-gap: 30px;
   z-index:10;
+  border: 2px solid #ffcc00;
+  border-radius: 15px;
+
 
 }
 
@@ -203,11 +208,14 @@ label {
   padding-top: 15px;
   font-size: 1.6rem;
   font-weight: 600;
-  color: #ffcc00
   z-index: 10;
 }
 
 select {
+  color: navy;
+  /* background: #ffcc00d0; */
+  text-align: center;
+  text-align-last: center;
   font-size: 3rem;
   border: 1px solid #ccc;
   border-radius: 8px;
