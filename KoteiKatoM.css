@@ -75,7 +75,7 @@ touch-action: none;
     display: grid;
     grid-template-columns: repeat(3, 50px); /* 3 columns, 60px each */
     grid-template-rows: repeat(3, 50px);    /* 3 rows, 60px each */
-    gap: 24px;
+    gap: 30px;
     z-index: 100;
 }
 
@@ -105,20 +105,20 @@ touch-action: none;
 }
 
 #control-panel{
-  margin-left: -25px;
+  margin-left: -27px;
   display: flex;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
-  gap: 60px;               /* Space between the two grids */
+  gap: 56px;               /* Space between the two grids */
   padding-bottom: 22%;       /* Margin from the very top of the page */
   width: 100%;
 }
 
 /* Styling to make them look like a D-pad */
 .grid-btn {
-    width: 64px;
-    height: 64px;
+    width: 70px;
+    height: 70px;
     background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent */
     color: white;
     border: 2px solid white;
