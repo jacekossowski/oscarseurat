@@ -105,14 +105,14 @@ touch-action: none;
 }
 
 #control-panel{
-  margin-left: 90px;
+  margin-left: 100px;
   display: flex;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
   gap: 30px;               /* Space between the two grids */
   padding-bottom: 22%;       /* Margin from the very top of the page */
-  width: 75%;
+  width: 72%;
 }
 
 /* Styling to make them look like a D-pad */
@@ -137,7 +137,7 @@ touch-action: none;
    /* position: absolute; */
    /*  top: 20px;  *//* Positioned for thumb reach on iPhone */
    /* left: 550px;*/
-    padding-left: 17px;
+    padding-left: 22px;
     padding-top: 16px;
     display: grid;
     grid-template-columns: repeat(3, 40px); /* 3 columns, 60px each */
