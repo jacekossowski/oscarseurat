@@ -105,7 +105,7 @@ touch-action: none;
 }
 
 #control-panel{
-  margin-left: 100px;
+  margin-left: 90px;
   display: flex;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
@@ -137,6 +137,7 @@ touch-action: none;
    /* position: absolute; */
    /*  top: 20px;  *//* Positioned for thumb reach on iPhone */
    /* left: 550px;*/
+    padding-left: 17px;
     padding-top: 16px;
     display: grid;
     grid-template-columns: repeat(3, 40px); /* 3 columns, 60px each */
