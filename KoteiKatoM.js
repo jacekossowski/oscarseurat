@@ -680,24 +680,36 @@ size_dropdown.addEventListener('change', (event) => {
       size = parseInt(event.target.value, 10);
       if (size == 4) {
         $('#game-option').html(`
-        <option id="opt1" value="0" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8butterfly48.png'><span style='display: inline-block; width: 15px;'></span>14 clues"></option>
-	    <option id="opt2" value="1" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8duck48black.png'><span style='display: inline-block; width: 15px;'></span>12 clues"></option>
-	    <option id="opt3" value="2" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8koala50d.png'><span style='display: inline-block; width: 15px;'></span>10 clues"></option>
-	    <option id="opt4" value="3" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8panda50.png'><span style='display: inline-block; width: 15px;'></span>9 clues"></option>
-	    <option id="opt5" value="4" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8leopard50.png'><span style='display: inline-block; width: 15px;'></span>8 clues"></option>
-	    <option id="opt6" value="5" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8tiger50.png'><span style='display: inline-block; width: 15px;'></span>7 clues"></option>
-	    <option id="opt7" value="6" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8dinosaur50.png'><span style='display: inline-block; width: 15px;'></span>6 clues!"></option>`);
+            <option id="opt1" value="0" data-content="<img style='width: 52px; height: 52px;' src='./icons/icons8butterfly48.png'><span style='display: inline-block; width: 15px; font-size: 25px;'>&nbsp;14 clues</span>"></option>
+	        <option id="opt2" value="1" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8duck48black.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;12 clues</span>"></option>
+	        <option id="opt3" value="2" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8koala50d.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;10 clues</span>"></option>
+	        <option id="opt4" value="3" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8panda50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;&nbsp;9 clues</span>"></option>
+	        <option id="opt5" value="4" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8leopard50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;&nbsp;8 clues</span>"></option>
+	        <option id="opt6" value="5" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8tiger50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;&nbsp;7 clues</span>"></option>
+	        <option id="opt7" value="6" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8dinosaur50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;&nbsp;6 clues!</span>"></option>
+      `);
         camera.fov = size_4_fov;
       } else {
             $('#game-option').html(`
-            <option id="opt1" value="0" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8butterfly48.png'><span style='display: inline-block; width: 15px;'></span>20 clues"></option>
-	        <option id="opt2" value="1" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8duck48black.png'><span style='display: inline-block; width: 15px;'></span>18 clues"></option>
-	        <option id="opt3" value="2" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8koala50d.png'><span style='display: inline-block; width: 15px;'></span>16 clues"></option>
-	        <option id="opt4" value="3" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8panda50.png'><span style='display: inline-block; width: 15px;'></span>15 clues"></option>
-	        <option id="opt5" value="4" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8leopard50.png'><span style='display: inline-block; width: 15px;'></span>14 clues"></option>
-	        <option id="opt6" value="5" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8tiger50.png'><span style='display: inline-block; width: 15px;'></span>13 clues"></option>
-	        <option id="opt7" value="6" data-content="<img style='width: 25px; height: 25px;' src='./icons/icons8dinosaur50.png'><span style='display: inline-block; width: 15px;'></span>12 clues!"></option>
-               `);
+
+            <option id="opt1" value="0" data-content="<img style='width: 52px; height: 52px;' src='./icons/icons8butterfly48.png'><span style='display: inline-block; width: 15px; font-size: 25px;'>&nbsp;20 clues</span>"></option>
+	        <option id="opt2" value="1" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8duck48black.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;18 clues</span>"></option>
+	        <option id="opt3" value="2" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8koala50d.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;16 clues</span>"></option>
+	        <option id="opt4" value="3" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8panda50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;15 clues</span>"></option>
+	        <option id="opt5" value="4" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8leopard50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;14 clues</span>"></option>
+	        <option id="opt6" value="5" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8tiger50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;13 clues</span>"></option>
+	        <option id="opt7" value="6" data-content="<img style='width:  52px; height:  52px;' src='./icons/icons8dinosaur50.png'><span style='display: inline-block; width: 15px;font-size: 25px;'>&nbsp;12 clues!</span>"></option>
+
+
+
+
+
+
+
+
+
+
+             `);
             camera.fov = size_5_fov;
       }
 
