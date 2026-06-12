@@ -343,14 +343,14 @@ let isFrontRim = false;
             // An X-line is a rim if its Y-position is at the top or bottom boundary
             const yPos = pos[1];
             if (Math.abs(yPos - minB) < 0.1 || Math.abs(yPos - maxB) < 0.1) {
-                isFrontRim = false;
+                isFrontRim = true;
             }
         }
         else if (lineAxis === 'y') {
             // A Y-line is a rim if its X-position is at the left or right boundary
             const xPos = pos[0];
             if (Math.abs(xPos - minB) < 0.1 || Math.abs(xPos - maxB) < 0.1) {
-                isFrontRim = false;
+                isFrontRim = true;
             }
         }
     }
