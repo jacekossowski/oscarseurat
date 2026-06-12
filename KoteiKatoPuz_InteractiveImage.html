@@ -599,15 +599,59 @@ window.addEventListener('keydown', (e) =>
 });
 
 let isDragging = false;
-window.addEventListener('mousedown', () => isDragging = true);
-window.addEventListener('mouseup', () => isDragging = false);
-window.addEventListener('mousemove', (e) => {
+
+
+window.addEventListener('pointerdown', () => {
+
+// Check if we touched a button, a select (dropdown), or an input field
+    // console.log("Got pointer down event ...")
+    const isUI = event.target.closest('button, select, input, label');
+    if (isUI) {
+        // console.log("returning.")
+        // If it's UI, don't stop propagation here (let the dropdown work),
+        // but DO return so the 3D rotation doesn't start.
+        return;
+    }
+    // If it's NOT UI, lock the pointer and start the game rotation
+    // event.target.setPointerCapture(event.pointerId);
+// console.log("Setting dragging to true")
+isDragging = true
+});
+
+
+
+
+
+window.addEventListener('mousedown', () => {
+
+// Check if we touched a button, a select (dropdown), or an input field
+   // console.log("Got pointer down event ...")
+    const isUI = event.target.closest('button, select, input, label');
+    if (isUI) {
+       // console.log("returning.")
+        // If it's UI, don't stop propagation here (let the dropdown work),
+        // but DO return so the 3D rotation doesn't start.
+        return;
+    }
+    // If it's NOT UI, lock the pointer and start the game rotation
+    // event.target.setPointerCapture(event.pointerId);
+// console.log("Setting dragging to true")
+isDragging = true
+});
+
+window.addEventListener('pointerup', () => isDragging = false);
+window.addEventListener('pointermove', (e) => {
     if (isDragging) {
         cubeGroup.rotation.y += e.movementX * 0.005;
         cubeGroup.rotation.x += e.movementY * 0.005;
     }
 });
 
+
+
+
+
+					
 
 camera.position.x =  0.37;
 camera.position.y = -0.5;
