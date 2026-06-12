@@ -3,6 +3,24 @@
 <link rel="icon" href="favicon4.jpg">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Oscar Seurat</title>
 
+
+
+<style>
+        /* This applies the mobile touch fixes we talked about */
+        body, html, canvas, #cube-container1, #cube-container2 {
+            margin: 0;
+            padding: 0;
+            touch-action: none;          
+            -webkit-user-select: none;   
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+</style>
+
+
+
+
+
 <script type="text/javascript" src="tabber/tabber.js"></script>
 <link rel="stylesheet" href="oscarsierrasierra.css" type="text/css">
 <!-- <link rel="stylesheet" href="oscarsierrasierra-print.css" type="text/css" media="print"> -->
@@ -20,17 +38,6 @@ document.write('<style type="text/css">.tabber{display:none;}<\/style>');
 <h2>Visual Blog</h2>
 <table style="text-align: left; margin-left: 45px; margin-top: 15px; margin-right: auto; width: 905px; height: 702px;" border="0" cellpadding="0" cellspacing="0">
   <tbody>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -269,12 +276,13 @@ Technically, the game is based on the concept of
 
 
 
-<div style="text-align: center;">
+<div id="cube-container1" style="text-align: center;">
 <iframe style="border: 1px solid purple ; padding: 5px"
   src="KoteiKatoPuz_InteractiveImage.html"
-  width="550"
-  height="550"
+  width="700"
+  height="700"
   style="border: none; scrollbar-width: none;"
+  scrolling="no"
   title="Interactive 3D Cube">
 </iframe><br>
 <span style="font-size: 35px !important;">&#8634;</span>
@@ -282,12 +290,13 @@ Technically, the game is based on the concept of
 
 <div style="height: 5px"></div>
 
-<div style="text-align: center;">
+<div id="cube-container2" style="text-align: center;">
 <iframe style="border: 1px solid purple; padding: 5px"
   src="KoteiKatoSol_InteractiveImage.html"
-  width="550"
-  height="550"
+  width="700"
+  height="700"
   style="border: none; scrollbar-width: none;"
+  scrolling="no"
   title="Interactive 3D Cube">
 </iframe>
 </div>
