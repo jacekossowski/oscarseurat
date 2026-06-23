@@ -112,7 +112,7 @@ touch-action: none;
   align-items: flex-start; /* Keeps them at the top */
   gap: 50px;               /* Space between the two grids */
   padding-bottom: 23%;       /* Margin from the very top of the page */
-  width: 81%;
+  width: 79%;
 }
 
 /* Styling to make them look like a D-pad */
