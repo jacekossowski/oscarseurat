@@ -20,6 +20,7 @@ html, body { margin: 0;
 }
 canvas {
   display: block;
+  margin-top: 50px;
   width: 100%;
   height: 100%;
   touch-action: none; /* Crucial: stops the browser from intercepting game taps */
@@ -111,7 +112,7 @@ touch-action: none;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
   gap: 50px;               /* Space between the two grids */
-  padding-bottom: 23%;       /* Margin from the very top of the page */
+  padding-bottom: 22%;       /* Margin from the very top of the page */
   /* width: 74%;*/
 }
 
