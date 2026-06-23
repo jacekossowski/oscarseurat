@@ -110,9 +110,9 @@ touch-action: none;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
-  gap: 30px;               /* Space between the two grids */
-  padding-bottom: 22%;       /* Margin from the very top of the page */
-  width: 72%;
+  gap: 50px;               /* Space between the two grids */
+  padding-bottom: 0%;       /* Margin from the very top of the page */
+  width: 85.5%;
 }
 
 /* Styling to make them look like a D-pad */
@@ -183,9 +183,11 @@ touch-action: none;
 }
 
 .container {
- /*  position: absolute; */
- /*  top: 70px; */ /* Positioned for thumb reach on iPhone */
- /*  left: 30px; */
+  position: absolute;
+  width: 375px;
+  max-width: 35%;
+  top: 30px;  /* Positioned for thumb reach on iPhone */
+  right: 40px;
   padding-top: 35px;
   padding-bottom: 35px;
   padding-left: 25px;
