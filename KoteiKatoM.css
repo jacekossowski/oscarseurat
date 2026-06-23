@@ -105,7 +105,7 @@ touch-action: none;
 }
 
 #control-panel{
-  margin-left: -50px;
+  margin-left: -46px;
   display: flex;
   flex-direction: row;
   justify-content: center; /* Centers horizontally */
