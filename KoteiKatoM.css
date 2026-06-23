@@ -111,7 +111,7 @@ touch-action: none;
   justify-content: center; /* Centers horizontally */
   align-items: flex-start; /* Keeps them at the top */
   gap: 50px;               /* Space between the two grids */
-  padding-bottom: 0%;       /* Margin from the very top of the page */
+  padding-bottom: 22%;       /* Margin from the very top of the page */
   width: 85.5%;
 }
 
@@ -187,7 +187,7 @@ touch-action: none;
   width: 375px;
   max-width: 35%;
   top: 30px;  /* Positioned for thumb reach on iPhone */
-  right: 40px;
+  right: 130px;
   padding-top: 35px;
   padding-bottom: 35px;
   padding-left: 25px;
