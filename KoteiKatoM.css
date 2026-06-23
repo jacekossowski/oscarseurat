@@ -15,14 +15,14 @@ html, body { margin: 0;
     top: -80px;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 100dvh;
     z-index: 1; /* Sit behind the buttons */
 }
 canvas {
   display: block;
-  margin-top: 66px;
+  margin-top: 55px;
   width: 100%;
-  height: 100%;
+  height: 100dvh;
   touch-action: none; /* Crucial: stops the browser from intercepting game taps */
 }
 
