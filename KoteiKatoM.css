@@ -20,7 +20,7 @@ html, body { margin: 0;
 }
 canvas {
   display: block;
-  margin-top: 70px;
+  margin-top: 66px;
   width: 100%;
   height: 100%;
   touch-action: none; /* Crucial: stops the browser from intercepting game taps */
