@@ -1,3 +1,4 @@
+
 body {
     display: flex;
     flex-direction: column;
@@ -23,11 +24,11 @@ div {
     display: flex;
     align-items: center;
     top: 11%;
-    left: 0%;
+    left: 2%;
     width: 90%;
     height: 90%;
-    min-width:1300px;
-    height:800px;
+    min-width:1170px;
+    height:720px;
 }
 
 #magnify {
@@ -38,12 +39,12 @@ div {
 #logo {
 	display: flex;
 	position: absolute;
-	width: 100%;
+	width: 95%;
 	margin-top: 0px;
         padding-top: 15px;
 	justify-content: center;
 	text-align: center;
-	min-width: 1400px; /* Looks like it must be 100px bigger than that of "outer" */
+	min-width: 1250px; /* Looks like it must be ~100px bigger than that of "outer" */
 }
 
 #logek{
@@ -132,6 +133,7 @@ div {
 #theboard { /* This is the id of the canvas */
     position: relative
     display: block;
+    touch-action: none;
   /*  margin-top: 5%; 
     margin-left: 16.5;  */
    /* margin-bottom: 5%; */
@@ -272,24 +274,28 @@ hr {
 
 }
 
-
-#goal_table {
-
+#table-wrapper {
     position: absolute;
-  /*  display: flex;*/
-    left: 76.45%;
+
+    left: 82%;
     bottom: 2.5%;
     padding: 0px;
     text-align: center:
-    border-collapse: collapse;
+
     border-spacing: 0;
     margin-left:-2px
 }
 
+#goal_table {
+height: 100%;
+width: 100%;
+border-collapse: collapse;
+}
+
 #goal {
     padding: 0px;
-    width: 58.5%;
-    max-width:360px;
+    width: 100%;
+    max-width: 200px;
     
 }
 
@@ -429,7 +435,7 @@ hr {
     left: 0;
     text-align: center;
     color: rgb(0, 51, 102);
-    width: 100%;
+    width: 105%;
  /*   margin-top: 700px;*/
     
    	
