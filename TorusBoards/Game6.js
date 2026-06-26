@@ -254,8 +254,8 @@ Game.prototype.initialize = function(name,     // string
 	NORTH_WEST : "north_west"
     };
 
-    this.gWidth  = 620;  // 640
-    this.gHeight = 620;
+    this.gWidth  = 450;  // 640
+    this.gHeight = 450;
   
 }
 
